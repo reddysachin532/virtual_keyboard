@@ -7,13 +7,10 @@ The main idea is:
 * if only index is over one of the keys change the transparency of the key
 * if both index and thumb fingers are over a key add the letter of the key to the written text     
 
-```md
-### ⌨️ Gesture Controlled Virtual Keyboard
+### 🛠️ Technologies Used
 
-Touchless virtual keyboard using real-time hand gesture recognition.
+**Python • OpenCV • MediaPipe • NumPy • Pynput**
 
-**Tech:** Python • OpenCV • MediaPipe • NumPy • Pynput
+### 🎥 Demo Video
 
-🎥 **Demo Video**
-
-https://github.com/user-attachments/assets/9a51bd41-f1ee-4147-9b40-4a3835e1b319
+https://github.com/user-attachments/assets/fccb7c42-9b87-4ed9-8d26-d149c1d195f5
